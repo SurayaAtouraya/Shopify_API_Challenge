@@ -5,6 +5,7 @@ var menus = [];
 var pageNum = 1;
 var API, total;
 var obj = {};
+//URL containing data has been removed by Shopify.
 var url = "https://backend-challenge-summer-2018.herokuapp.com/challenges.json?id=1&page=";
 function initializeObj()
 {
